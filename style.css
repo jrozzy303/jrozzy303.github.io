@@ -25,3 +25,10 @@ p2 {
   border-style: 3px white;
   word-wrap: break-word;
 }
+p3 {
+  color: pink;
+  text-align: left;
+  font-size: 17px;
+  text-indent: 50px;
+  background-color: black;
+}
