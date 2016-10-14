@@ -2,6 +2,7 @@ h1 {
   color: blue;
   font-size: 30px
   text-align: left;
+  background-color: black;
 }
 body {
   background-image: url(https://upload-assets.vice.com/files/2016/01/08/1452278972KilaVaish.gif);
@@ -12,4 +13,6 @@ p {
   text-align: left;
   font-size: 17px;
   text-indent: 50px;
+  background-color: black
+  border: 3px white;
 }
