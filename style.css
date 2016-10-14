@@ -14,7 +14,6 @@ p {
   font-size: 17px;
   text-indent: 50px;
   background-color: black;
-  border-style: 3px white;
 }
 p2 {
   color: purple;
@@ -22,13 +21,14 @@ p2 {
   font-size: 17px;
   text-indent: 50px;
   background-color: black;
-  border-style: 3px white;
-  word-wrap: break-word;
+  
+
 }
 p3 {
-  color: pink;
+  color: maroon;
   text-align: left;
   font-size: 17px;
   text-indent: 50px;
   background-color: black;
+
 }
