@@ -21,7 +21,7 @@ p2 {
   font-size: 17px;
   text-indent: 50px;
   background-color: black;
-  
+
 
 }
 p3 {
@@ -31,4 +31,9 @@ p3 {
   text-indent: 50px;
   background-color: black;
 
+}
+p4 {
+  color:orange;
+  text-align: left;
+  background-image: url(http://i2.cdn.turner.com/cnnnext/dam/assets/161010004816-ken-bone-debate-exlarge-169.jpg);
 }
