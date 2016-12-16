@@ -2,25 +2,33 @@ h1 {
   color: darkgreen;
   font-size: 40px;
   text-align: left;
-  background-color: black;
+  background-color: blue;
 }
+
+h2 {
+  color: white;
+  font-size: 40px;
+  text-align: left;
+  background-color: blue;
+}
+
 body {
-  background-image: url(https://upload-assets.vice.com/files/2016/01/08/1452278972KilaVaish.gif);
+  background-color: white;
 
 }
 p {
-  color:blue;
+  color:white;
   text-align: left;
   font-size: 17px;
   text-indent: 50px;
-  background-color: black;
+  background-color: blue;
 }
 p2 {
-  color: purple;
+  color: white;
   text-align: left;
   font-size: 17px;
   text-indent: 50px;
-  background-color: black;
+  background-color: blue;
 
 
 }
@@ -29,11 +37,5 @@ p3 {
   text-align: left;
   font-size: 17px;
   text-indent: 50px;
-  background-color: black;
-
-}
-p4 {
-  color:orange;
-  text-align: left;
-  background-image: url(http://i2.cdn.turner.com/cnnnext/dam/assets/161010004816-ken-bone-debate-exlarge-169.jpg);
+  background-color: blue;
 }
