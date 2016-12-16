@@ -33,9 +33,34 @@ p2 {
 
 }
 p3 {
-  color: maroon;
+  color: white;
   text-align: left;
   font-size: 17px;
   text-indent: 50px;
   background-color: blue;
+}
+p4{
+  color: white;
+  text-align: left;
+  font-size: 17px;
+  text-indent: 50px;
+  background-color: blue;
+}
+a {
+  color: white
+}
+a1 {
+  color: white
+}
+a2 {
+  color: white
+}
+a3 {
+  color: white
+}
+a4 {
+  color: white
+}
+a5 {
+  color: white
 }
