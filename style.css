@@ -8,7 +8,7 @@ h1 {
 h2 {
   color: white;
   font-size: 40px;
-  text-align: center;
+  text-align: left;
   background-color: blue;
 }
 
@@ -16,38 +16,42 @@ body {
   background-color: white;
 
 }
+img {
+}
 p {
   color:white;
-  text-align: left;
+  text-align: center;
   font-size: 17px;
   text-indent: 50px;
   background-color: blue;
 }
 p2 {
-  color: white;
+  color: blue;
   text-align: center;
   font-size: 17px;
   text-indent: 100px;
-  background-color: blue;
-
-
+  background-color: white;
+  border: 3px blue;
 }
 p3 {
-  color: white;
+  color: blue;
   text-align: center;
   font-size: 17px;
   text-indent: 50px;
-  background-color: blue;
+  background-color: white;
+  border: 3px blue;
 }
 p4{
-  color: white;
+  color: blue;
   text-align: left;
   font-size: 17px;
   text-indent: 50px;
-  background-color: blue;
+  background-color: white;
+  
 }
 a {
   color: white
+  background-color: blue;
 }
 a1 {
   color: white
